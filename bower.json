@@ -1,0 +1,17 @@
+{
+    "name": "playfairdisplaysc-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Claus Eggers S\u00f8rensen"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/playfairdisplaysc-bower.git"
+    },
+    "description": "Playfair Display SC font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
